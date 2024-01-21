@@ -2,3 +2,4 @@
 # Second EDA assignement- EDA assignment is done for the data on Wholesale customer data and various plots were made against various columns and results are derived.It is updated to rev1
 # First decision tree assignemnt on drug added-     first-project
 /Drug_Decision_Tree_Athul.ipynb
+# First assignment on ANN done on Heart_Disease_Prediction.csv and model was created, Trained and tested and the results were also compared.
