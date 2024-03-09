@@ -4,3 +4,4 @@
 /Drug_Decision_Tree_Athul.ipynb
 # First assignment on ANN done on Heart_Disease_Prediction.csv and model was created, Trained and tested and the results were also compared.
 # CNN image classification assignment done using cifar 10 dataset
+# CNN image classification assignment done using CIFAR 100 dataset
