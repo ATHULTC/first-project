@@ -5,3 +5,4 @@
 # First assignment on ANN done on Heart_Disease_Prediction.csv and model was created, Trained and tested and the results were also compared.
 # CNN image classification assignment done using cifar 10 dataset
 # CNN image classification assignment done using CIFAR 100 dataset
+# XG boost classification assignment done using IRIS data sets
